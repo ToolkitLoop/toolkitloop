@@ -24,6 +24,8 @@ A growing collection of fast, simple and privacy-friendly online tools for every
 ### 🛠️ Developer Tools
 
 - [JSON Formatter](https://toolkitloop.com/json-formatter/) — Format, validate and inspect JSON data directly in your browser.
+- [JSON Validator](https://toolkitloop.com/json-validator) — Validate JSON syntax, understand diagnostics and preview safe repairs without uploading your data.
+- [M3U8 Player](https://toolkitloop.com/m3u8-player) — Play authorized M3U8 HLS streams, inspect manifests and troubleshoot browser playback locally without a proxy or downloader.
 - [Markdown Viewer](https://toolkitloop.com/markdown-viewer/) — Preview and read Markdown content with a clean rendered view.
 
 ### 📝 Text Tools
@@ -39,8 +41,10 @@ A growing collection of fast, simple and privacy-friendly online tools for every
 
 - [BMI Calculator](https://toolkitloop.com/health/bmi-calculator) — Calculate adult BMI and view a healthy-weight range based on your height.
 - [Calorie Calculator](https://toolkitloop.com/calorie-calculator) — Estimate daily calories, BMR, TDEE and macros with visible calculation assumptions.
+- [Decimal to Fraction Converter](https://toolkitloop.com/decimal-to-fraction) — Convert decimals and fractions, simplify results and find practical inch approximations locally in your browser.
 - [Mortgage Calculator](https://toolkitloop.com/mortgage-calculator/) — Estimate mortgage payments and understand the cost of a home loan.
 - [Percentage Calculator](https://toolkitloop.com/percentage-calculator/) — Quickly solve common percentage calculations and comparisons.
+- [Tip Calculator](https://toolkitloop.com/tip-calculator) — Calculate restaurant tips, sales tax and penny-perfect split bills online.
 
 ### 🔄 Converters
 
@@ -49,8 +53,10 @@ A growing collection of fast, simple and privacy-friendly online tools for every
 
 ### ✨ Generators
 
+- [QR Code Scanner](https://toolkitloop.com/qr-code-scanner) — Scan QR codes and barcodes from your camera, screenshots or images with private local decoding and safe link previews.
 - [QR Code Generator](https://toolkitloop.com/qr-code-generator/) — Generate QR codes for links, text and other common content.
 - [Random Number Generator](https://toolkitloop.com/random-number-generator/) — Generate random numbers within a range for everyday tasks.
+- [Yes No Wheel](https://toolkitloop.com/yes-no-wheel) — Spin a fair Yes, No or Maybe wheel for a quick, private decision.
 
 ---
 
@@ -77,6 +83,8 @@ No unnecessary accounts, installations or complicated workflows.
 ### 🌐 Browser-first
 
 Use ToolkitLoop directly from your browser, wherever you are.
+
+Available in English, German, French, Italian, Simplified Chinese, Traditional Chinese, Japanese, Korean, Portuguese, Spanish and Russian.
 
 ---
 
