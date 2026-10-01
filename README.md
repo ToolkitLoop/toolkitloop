@@ -53,6 +53,7 @@ A growing collection of fast, simple and privacy-friendly online tools for every
 
 ### ✨ Generators
 
+- [Barcode Generator](https://toolkitloop.com/barcode-generator/) — Create Code 128, UPC, EAN, Code 39 and ITF-14 barcodes with local validation and SVG or PNG downloads.
 - [QR Code Scanner](https://toolkitloop.com/qr-code-scanner) — Scan QR codes and barcodes from your camera, screenshots or images with private local decoding and safe link previews.
 - [QR Code Generator](https://toolkitloop.com/qr-code-generator/) — Generate QR codes for links, text and other common content.
 - [Random Number Generator](https://toolkitloop.com/random-number-generator/) — Generate random numbers within a range for everyday tasks.
