@@ -48,8 +48,8 @@ A growing collection of fast, simple and privacy-friendly online tools for every
 
 ### 🔄 Converters
 
-- [Unit Converter](https://toolkitloop.com/unit-converter/) — Convert common measurement units quickly in one place.
-- [Currency Converter](https://toolkitloop.com/currency-converter) — Convert currencies using sourced reference exchange rates while keeping your entered amount in the browser.
+- [Unit Converter](https://toolkitloop.com/unit-converter/) — Convert common measurement units in one place, with dedicated length, weight and volume pair pages that show exact conversion constants and tables.
+- [Currency Converter](https://toolkitloop.com/currency-converter) — Convert currencies using sourced reference exchange rates, with dedicated pair pages that show the rate date and conversion table, while keeping your entered amount in the browser.
 
 ### ✨ Generators
 
