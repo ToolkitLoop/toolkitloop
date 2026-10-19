@@ -34,6 +34,7 @@ A growing collection of fast, simple and privacy-friendly online tools for every
 
 ### 🖼️ Image Tools
 
+- [Compress PDF](https://toolkitloop.com/compress-pdf) — Compress supported JPEG image streams in PDF files locally in your browser, with batch processing and output verification before download.
 - [Favicon Generator](https://toolkitloop.com/favicon-generator/) — Create favicon files for websites from your own image.
 - [WebP to PNG & JPG](https://toolkitloop.com/tools/webp-to-png) — Convert WebP images to PNG or JPG locally in your browser, including batch conversion.
 
