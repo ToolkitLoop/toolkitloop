@@ -23,10 +23,12 @@ A growing collection of fast, simple and privacy-friendly online tools for every
 
 ### 🛠️ Developer Tools
 
+- [Diff Checker](https://toolkitloop.com/diff-checker) — Compare code, text files and lists locally in your browser, with line-by-line differences and optional whitespace handling.
 - [JSON Formatter](https://toolkitloop.com/json-formatter/) — Format, validate and inspect JSON data directly in your browser.
 - [JSON Validator](https://toolkitloop.com/json-validator) — Validate JSON syntax, understand diagnostics and preview safe repairs without uploading your data.
 - [M3U8 Player](https://toolkitloop.com/m3u8-player) — Play authorized M3U8 HLS streams, inspect manifests and troubleshoot browser playback locally without a proxy or downloader.
 - [Markdown Viewer](https://toolkitloop.com/markdown-viewer/) — Preview and read Markdown content with a clean rendered view.
+- [Regex Tester](https://toolkitloop.com/regex-tester) — Test JavaScript regular expressions locally in your browser, including matches, capture groups and replacements.
 
 ### 📝 Text Tools
 
@@ -36,6 +38,7 @@ A growing collection of fast, simple and privacy-friendly online tools for every
 
 - [Compress PDF](https://toolkitloop.com/compress-pdf) — Compress supported JPEG image streams in PDF files locally in your browser, with batch processing and output verification before download.
 - [Favicon Generator](https://toolkitloop.com/favicon-generator/) — Create favicon files for websites from your own image.
+- [JPG to WebP Converter](https://toolkitloop.com/jpg-to-webp) — Convert JPG images to WebP locally in your browser, with batch processing, adjustable quality and before-and-after comparison.
 - [WebP to PNG & JPG](https://toolkitloop.com/tools/webp-to-png) — Convert WebP images to PNG or JPG locally in your browser, including batch conversion.
 
 ### 🧮 Calculators
